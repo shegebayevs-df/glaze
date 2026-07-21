@@ -1,1 +1,4 @@
-requirements.txt
+ultralytics
+opencv-python
+pyserial
+numpy
